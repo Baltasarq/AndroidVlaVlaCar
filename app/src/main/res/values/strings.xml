@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VlaVlaCar</string>
+    <string name="lbl_consumo">consumo</string>
+    <string name="lbl_km">Km</string>
+    <string name="lbl_hour">h</string>
+    <string name="lbl_minutes">m</string>
+    <string name="lbl_time">t</string>
+</resources>
